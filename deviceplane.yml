@@ -1,0 +1,4 @@
+demo-go:
+  image: deviceplane/demo-go:614617567844e1b74e45622785719d4b8a728eea
+  ports:
+  - 8080:8080
