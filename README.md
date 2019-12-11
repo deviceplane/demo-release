@@ -1,1 +1,1 @@
-# Device Plane Demo application
+# Deviceplane Demo application
